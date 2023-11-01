@@ -1,4 +1,4 @@
 
-echo "Geeks for Geeks"
+echo "hello burnout shell"
 
 # npm init @eslint/config
